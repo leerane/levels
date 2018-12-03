@@ -1,0 +1,15 @@
+{
+  "name": "levels",
+  "version": "1.0.0",
+  "description": "Starter kit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leerane/levels"
+  },
+  "author": "Nikolay Moryakin <leeranez@gmail.com> (https://github/leerane)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leerane/levels/issues"
+  },
+  "homepage": "https://github.com/leerane/levels#readme"
+}
